@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# ch-058, geocitizen
+# Geo Citizen
 
-___build and deploy (ubuntu16, git2, maven3, tomcat9)___
+___Prerequisites: Ubuntu, Git, Maven3, Tomcat 9___
 
 1) `git clone https://github.com/nromanen/Ch-058.git; cd Ch-058`
 1) in config file [`~/Ch-058/src/main/resources/application.properties`](https://git.io/vA4Sw)
@@ -23,14 +22,3 @@ to generate the production build you have to
     * after [`<link href=`](https://git.io/vARrw) 
     * after [`<script type=text/javascript src=`](https://git.io/vARr5)          
 - then repeat 3rd step of `build and deploy`  
-
-# 
-    
-[swagger](http://localhost:8080/citizen/swagger-ui.html)
-
-[heroku](https://geocitizen.herokuapp.com)  
-  
-
-=======
-# Geocitizen
->>>>>>> a3175f1c0fdab76be1cea3be0ec00b86a68e345b
