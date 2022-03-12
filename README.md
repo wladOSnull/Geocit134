@@ -2,14 +2,17 @@
 
 ___Prerequisites: Ubuntu, Git, Maven3, Tomcat 9___
 
-1) `git clone https://github.com/nromanen/Ch-058.git; cd Ch-058`
-1) in config file [`~/Ch-058/src/main/resources/application.properties`](https://git.io/vA4Sw)
+1) `git clone https://github.com/wladOSnull/Geocit134.git; cd Geocit134`
+
+2) in config file [`~/Geocit134/src/main/resources/application.properties`](https://git.io/vA4Sw)
 	you might want to edit following properties
 	 * [`front.url`](https://git.io/vARyB) - front url
 	 * [`db.url`](https://git.io/vARyu) - db uri (__db must be created manually__)
 	 * [`db.username`](https://git.io/vARyo) & [`db.password`](https://git.io/vARyK) - db credentials
-1) `mvn install && mv target/citizen.war /usr/share/tomcat9/webapps/ && /usr/share/tomcat9/bin/startup.sh`
-1) e.g. <http://localhost:8080/citizen/>
+
+3) `mvn install && mv target/citizen.war /usr/share/tomcat9/webapps/ && /usr/share/tomcat9/bin/startup.sh`
+
+4) e.g. <http://localhost:8080/citizen/>
 
 # 
 
