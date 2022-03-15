@@ -24,4 +24,4 @@ to generate the production build you have to
  - in [`~/Ch-058/src/main/webapp/index.html`](https://git.io/vAR9l) put dots (ha-ha) on lines
     * after [`<link href=`](https://git.io/vARrw) 
     * after [`<script type=text/javascript src=`](https://git.io/vARr5)          
-- then repeat 3rd step of `build and deploy`  
+- then repeat 3rd step of `build and deploy`
