@@ -23,5 +23,5 @@ to generate the production build you have to
  - run `npm run build`, move all files from `~/Ch-058/front-end/dist` to `~/Ch-058/src/main/webapp`
  - in [`~/Ch-058/src/main/webapp/index.html`](https://git.io/vAR9l) put dots (ha-ha) on lines
     * after [`<link href=`](https://git.io/vARrw) 
-    * after [`<script type=text/javascript src=`](https://git.io/vARr5)        
+    * after [`<script type=text/javascript src=`](https://git.io/vARr5)      
 - then repeat 3rd step of `build and deploy`
