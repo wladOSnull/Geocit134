@@ -1,5 +1,9 @@
 # Geo Citizen
 
+
+[![Quality Gate Status](http://wlados-sonarqube.ddns.net:9000/api/project_badges/measure?project=com.softserveinc%3Ageo-citizen&metric=alert_status&token=f9f17518dec24e8ddaf7851e1673547236e2a16f)](http://wlados-sonarqube.ddns.net:9000/dashboard?id=com.softserveinc%3Ageo-citizen)
+
+
 ___Prerequisites: Ubuntu, Git, Maven3, Tomcat 9___
 
 1) `git clone https://github.com/wladOSnull/Geocit134.git; cd Geocit134`
