@@ -1,8 +1,12 @@
 # Geo Citizen
 
 
-[![Quality Gate Status](http://wlados-sonarqube.ddns.net:9000/api/project_badges/measure?project=com.softserveinc%3Ageo-citizen&metric=alert_status&token=f9f17518dec24e8ddaf7851e1673547236e2a16f)](http://wlados-sonarqube.ddns.net:9000/dashboard?id=com.softserveinc%3Ageo-citizen)
+[![Coverage](http://wlados-sonarqube.ddns.net:9000/api/project_badges/measure?project=com.softserveinc%3Ageo-citizen&metric=coverage&token=f9f17518dec24e8ddaf7851e1673547236e2a16f)](http://wlados-sonarqube.ddns.net:9000/dashboard?id=com.softserveinc%3Ageo-citizen)
+[![Code Smells](http://wlados-sonarqube.ddns.net:9000/api/project_badges/measure?project=com.softserveinc%3Ageo-citizen&metric=code_smells&token=f9f17518dec24e8ddaf7851e1673547236e2a16f)](http://wlados-sonarqube.ddns.net:9000/dashboard?id=com.softserveinc%3Ageo-citizen)
+[![Security Rating](http://wlados-sonarqube.ddns.net:9000/api/project_badges/measure?project=com.softserveinc%3Ageo-citizen&metric=security_rating&token=f9f17518dec24e8ddaf7851e1673547236e2a16f)](http://wlados-sonarqube.ddns.net:9000/dashboard?id=com.softserveinc%3Ageo-citizen)
+[![Vulnerabilities](http://wlados-sonarqube.ddns.net:9000/api/project_badges/measure?project=com.softserveinc%3Ageo-citizen&metric=vulnerabilities&token=f9f17518dec24e8ddaf7851e1673547236e2a16f)](http://wlados-sonarqube.ddns.net:9000/dashboard?id=com.softserveinc%3Ageo-citizen)
 
+[![Quality gate](http://wlados-sonarqube.ddns.net:9000/api/project_badges/quality_gate?project=com.softserveinc%3Ageo-citizen&token=f9f17518dec24e8ddaf7851e1673547236e2a16f)](http://wlados-sonarqube.ddns.net:9000/dashboard?id=com.softserveinc%3Ageo-citizen)
 
 ___Prerequisites: Ubuntu, Git, Maven3, Tomcat 9___
 
